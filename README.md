@@ -6,7 +6,7 @@ O projeto foi desenvolvido para apresentar a trajetória profissional, competên
 
 ## Preview
 
-[Visualizar o portfólio](https://3000-ihrb7epuj9bm41mr3t9gg-c8b28ea2.us4.manus.computer/)
+[Visualizar o portfólio](https://andersonfoli-vhdfmgmp.manus.space/)
 
 ## Objetivos
 
