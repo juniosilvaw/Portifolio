@@ -1,0 +1,10 @@
+{
+  "name": "andersonfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfólio profissional de Anderson Júnior",
+  "packageManager": "pnpm@11.0.0",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
